@@ -1,0 +1,24 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "Coursera Course on Web Development",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham-sys/Coursera_Web.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubham-sys/Coursera_Web/issues"
+  },
+  "homepage": "https://github.com/shubham-sys/Coursera_Web#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
